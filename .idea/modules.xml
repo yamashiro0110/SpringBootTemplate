@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-template.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-template.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-template_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-template_main.iml" group="spring-boot-template" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-template_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-template_test.iml" group="spring-boot-template" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootTemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootTemplate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootTemplate_main.iml" group="SpringBootTemplate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringBootTemplate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringBootTemplate_test.iml" group="SpringBootTemplate" />
     </modules>
   </component>
 </project>

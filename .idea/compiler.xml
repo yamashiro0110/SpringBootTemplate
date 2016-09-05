@@ -21,6 +21,8 @@
     <bytecodeTargetLevel target="1.8">
       <module name="spring-boot-template_main" target="1.8" />
       <module name="spring-boot-template_test" target="1.8" />
+      <module name="SpringBootTemplate_main" target="1.8" />
+      <module name="SpringBootTemplate_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
